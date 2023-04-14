@@ -30,6 +30,6 @@ public class Exumacao {
 	@Override
 	public String toString() {
 		return "\nIdentificação         : " + this.idExumacao +
-			   "\nData                  : " + this.data;
+		       "\nData                  : " + this.data;
 	}
 }
